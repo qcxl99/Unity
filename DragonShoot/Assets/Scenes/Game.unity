@@ -2080,7 +2080,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 394d741efe77f644aac2a907e395c784, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  over: 10
+  over: 90
 --- !u!1 &2100693814
 GameObject:
   m_ObjectHideFlags: 0
@@ -2303,6 +2303,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3264254104785139736, guid: 229d40f1cb5530243950c56f3f23a1e1, type: 3}
+      propertyPath: prefabBoom
+      value: 
+      objectReference: {fileID: 7756909261963687330, guid: 6652748c1ad1ce2439dfc64acaeb80bb, type: 3}
     - target: {fileID: 7320254519841093770, guid: 229d40f1cb5530243950c56f3f23a1e1, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2350,6 +2354,18 @@ PrefabInstance:
     - target: {fileID: 7320254519841094005, guid: 229d40f1cb5530243950c56f3f23a1e1, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7320254521464153110, guid: 229d40f1cb5530243950c56f3f23a1e1, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7320254521464153110, guid: 229d40f1cb5530243950c56f3f23a1e1, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7320254521464153110, guid: 229d40f1cb5530243950c56f3f23a1e1, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 229d40f1cb5530243950c56f3f23a1e1, type: 3}

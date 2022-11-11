@@ -62,11 +62,11 @@
     <Compile Include="Assets\TouchContorller\Scripts\Joysticks\VariableJoystick.cs" />
     <Compile Include="Assets\TouchContorller\Scripts\VirtualContorller.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\MobileController.cs" />
     <Compile Include="Assets\Scripts\PlayerCharacter.cs" />
     <Compile Include="Assets\TouchContorller\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Scripts\Character.cs" />
     <Compile Include="Assets\Scripts\AIController.cs" />
-    <Compile Include="Assets\Scripts\MobileController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\HorizontalActionAssets\SimpleFX\Materials\UnlitVertexColour_Alpha.shader" />

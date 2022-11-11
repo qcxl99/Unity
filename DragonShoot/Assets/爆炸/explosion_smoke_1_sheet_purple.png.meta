@@ -1,7 +1,106 @@
 fileFormatVersion: 2
 guid: 2451b85a6ea40904ebfe6ca0702446e2
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1987583648159576114
+    second: explosion_smoke_1_sheet_purple_0
+  - first:
+      213: -122996209950597665
+    second: explosion_smoke_1_sheet_purple_1
+  - first:
+      213: 122073494494591195
+    second: explosion_smoke_1_sheet_purple_2
+  - first:
+      213: 9144223746234813861
+    second: explosion_smoke_1_sheet_purple_3
+  - first:
+      213: 3307039945388406643
+    second: explosion_smoke_1_sheet_purple_4
+  - first:
+      213: -543896159555431210
+    second: explosion_smoke_1_sheet_purple_5
+  - first:
+      213: -8462785001154956970
+    second: explosion_smoke_1_sheet_purple_6
+  - first:
+      213: -2303523586873247384
+    second: explosion_smoke_1_sheet_purple_7
+  - first:
+      213: -2994394174705384814
+    second: explosion_smoke_1_sheet_purple_8
+  - first:
+      213: -5470280082691264934
+    second: explosion_smoke_1_sheet_purple_9
+  - first:
+      213: -6162204074034670557
+    second: explosion_smoke_1_sheet_purple_10
+  - first:
+      213: -4377562416169018185
+    second: explosion_smoke_1_sheet_purple_11
+  - first:
+      213: -4998662557013435932
+    second: explosion_smoke_1_sheet_purple_12
+  - first:
+      213: -4986751643765114613
+    second: explosion_smoke_1_sheet_purple_13
+  - first:
+      213: -3393247242595439941
+    second: explosion_smoke_1_sheet_purple_14
+  - first:
+      213: -8968921750783099889
+    second: explosion_smoke_1_sheet_purple_15
+  - first:
+      213: -5268439471077037632
+    second: explosion_smoke_1_sheet_purple_16
+  - first:
+      213: 417620692375342658
+    second: explosion_smoke_1_sheet_purple_17
+  - first:
+      213: 5611849770119350331
+    second: explosion_smoke_1_sheet_purple_18
+  - first:
+      213: -7036745894261307866
+    second: explosion_smoke_1_sheet_purple_19
+  - first:
+      213: -9094132777857913320
+    second: explosion_smoke_1_sheet_purple_20
+  - first:
+      213: -6245329212820012598
+    second: explosion_smoke_1_sheet_purple_21
+  - first:
+      213: 5058889253885385551
+    second: explosion_smoke_1_sheet_purple_22
+  - first:
+      213: 4152469208108229312
+    second: explosion_smoke_1_sheet_purple_23
+  - first:
+      213: 7362861634674287611
+    second: explosion_smoke_1_sheet_purple_24
+  - first:
+      213: 5751231298731199926
+    second: explosion_smoke_1_sheet_purple_25
+  - first:
+      213: -6456037964158241596
+    second: explosion_smoke_1_sheet_purple_26
+  - first:
+      213: -2954580073247437110
+    second: explosion_smoke_1_sheet_purple_27
+  - first:
+      213: -6046959947112839046
+    second: explosion_smoke_1_sheet_purple_28
+  - first:
+      213: -9207379770392562863
+    second: explosion_smoke_1_sheet_purple_29
+  - first:
+      213: 7298908430963598198
+    second: explosion_smoke_1_sheet_purple_30
+  - first:
+      213: -8322096655854849513
+    second: explosion_smoke_1_sheet_purple_31
+  - first:
+      213: -7951820997089613877
+    second: explosion_smoke_1_sheet_purple_32
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +140,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +174,726 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 428
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2303ded1cc0559b10800000000000000
+      internalID: 1987583648159576114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 420
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdddc2549970b4ef0800000000000000
+      internalID: -122996209950597665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd837db4231b1b100800000000000000
+      internalID: 122073494494591195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 407
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad840d8c0fc6ee70800000000000000
+      internalID: 9144223746234813861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 271
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37737e21f47f4ed20800000000000000
+      internalID: 3307039945388406643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 267
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4dff61351b378f0800000000000000
+      internalID: -543896159555431210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 266
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b7a311e52e8a80800000000000000
+      internalID: -8462785001154956970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 263
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869bfa8908d3800e0800000000000000
+      internalID: -2303523586873247384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292cf23fc56c176d0800000000000000
+      internalID: -2994394174705384814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eea416f39a514b0800000000000000
+      internalID: -5470280082691264934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 132
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324d2bd1b047b7aa0800000000000000
+      internalID: -6162204074034670557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 133
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc15220d26cf33c0800000000000000
+      internalID: -4377562416169018185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91b2173ee21aab0800000000000000
+      internalID: -4998662557013435932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09f84a0dcf7bcab0800000000000000
+      internalID: -4986751643765114613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 98
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba660e6c93c8e0d0800000000000000
+      internalID: -3393247242595439941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 84
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7c42ef2df78380800000000000000
+      internalID: -8968921750783099889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c96ec5e63eb2e6b0800000000000000
+      internalID: -5268439471077037632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 94
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e82eb9ecfabc500800000000000000
+      internalID: 417620692375342658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3842d012ab41ed40800000000000000
+      internalID: 5611849770119350331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 28
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cdd534e4785e90800000000000000
+      internalID: -7036745894261307866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 83
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eea8bdb662bc180800000000000000
+      internalID: -9094132777857913320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 76
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14e7c8b222459a0800000000000000
+      internalID: -6245329212820012598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 88
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b11e729f8c43640800000000000000
+      internalID: 5058889253885385551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 78
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e90a7eb880a930800000000000000
+      internalID: 4152469208108229312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 57
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ec1985a32e2660800000000000000
+      internalID: 7362861634674287611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 35
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd4bf5156a70df40800000000000000
+      internalID: 5751231298731199926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 61
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c479e95dab8766a0800000000000000
+      internalID: -6456037964158241596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_27
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 52
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace83a1d3193ff6d0800000000000000
+      internalID: -2954580073247437110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78035d57f1e41ca0800000000000000
+      internalID: -6046959947112839046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 52
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15332a1b1e0d83080800000000000000
+      internalID: -9207379770392562863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67360b3fb8eea4560800000000000000
+      internalID: 7298908430963598198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 11
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123e411f29f18c80800000000000000
+      internalID: -8322096655854849513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_smoke_1_sheet_purple_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 12
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72bf60fe475a190800000000000000
+      internalID: -7951820997089613877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
